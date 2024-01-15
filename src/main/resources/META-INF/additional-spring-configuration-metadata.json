@@ -1,0 +1,107 @@
+{"properties": [
+  {
+    "name": "app.url",
+    "type": "java.lang.String",
+    "description": "A description for 'app.url'"
+  },
+  {
+    "name": "browser",
+    "type": "java.lang.String",
+    "description": "A description for 'browser'"
+  },
+  {
+    "name": "app.env",
+    "type": "java.lang.String",
+    "description": "A description for 'app.env'"
+  },
+  {
+    "name": "app.env",
+    "type": "java.lang.String",
+    "description": "A description for 'app.env'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.password'"
+  },
+  {
+    "name": "app.browser",
+    "type": "java.lang.String",
+    "description": "A description for 'app.browser'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.userName'"
+  },
+  {
+    "name": "app.prod",
+    "type": "java.lang.String",
+    "description": "A description for 'app.prod'"
+  },
+  {
+    "name": "app.stg",
+    "type": "java.lang.String",
+    "description": "A description for 'app.stg'"
+  },
+  {
+    "name": "app.dev",
+    "type": "java.lang.String",
+    "description": "A description for 'app.dev'"
+  }
+]}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HPSC Automation Sanity Test Suite">
+<listeners>
+ <listener class-name="com.qa.ExtentReportListner.ExtentReportListner"/>
+</listeners>
+	<test name="HPSC test cases">
+		<classes>
+			<class name="com.hpsc.qa.testcases.LoginPageTest" />
+			<class name="com.hpsc.qa.testcases.HomePageTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
